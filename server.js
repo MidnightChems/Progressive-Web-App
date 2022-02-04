@@ -3,11 +3,14 @@ const path = require("path");
 
 const app = express();
 
-app.use("/spa", express.static(path.resolve(__dirname,"spa")));
+app.use("/spa", express.static(path.resolve(__dirname,"spa"),
+{extensions: ["js"]}));
 
 app.use("/src", express.static(path.resolve(__dirname,"src")));
 
 app.use("/images", express.static(path.resolve(__dirname,"images")));
+
+
 
 app.get("/sw.js", (req, res) => {
     res.sendFile(path.resolve(__dirname, "sw.js"));
