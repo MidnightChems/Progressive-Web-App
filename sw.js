@@ -21,6 +21,8 @@ self.addEventListener("install", e => {
                 "./spa/js/views/dashboard.js",
                 "./spa/js/index.js",
                 "./spa/js/views/AbstractView.js",
+                "./spa/js/views/upholstery.js",
+                "./spa/js/views/upholstery-adhesives.js",
                 "./src/index.js"])
         })
     );

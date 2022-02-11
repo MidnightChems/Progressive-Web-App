@@ -2,6 +2,8 @@ console.log("SPA JS loaded")
 import dashboard from "./views/dashboard";
 import settings from "./views/settings";
 import posts from "./views/posts";
+import upholstery from "./views/upholstery";
+import upholsteryAdhesives from "./views/upholstery-adhesives";
 //import test from "../test";
 const navigateTo = url =>  {
     history.pushState(null, null, url);
@@ -13,7 +15,9 @@ const router = async () => {
         { path: "/", view: dashboard},
         { path: "/posts", view: posts},
         { path: "/settings", view: settings},
-    //    { path: "/test", view: test}
+        { path: "/upholstery", view: upholstery},
+        { path: "/upholstery-adhesives", view: upholsteryAdhesives},
+      //{ path: "/test", view: test}
     ];
 
     //test each route for match

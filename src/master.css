@@ -1,16 +1,33 @@
-.container {
-    
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    width: 50vw;
-    margin: 0 auto;
+/* reset CSS */
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
 }
 
-.container  .app 
-{
-    display: flex;
+.image {
+    max-width:100%;
+    height: auto;
+    
+}
+
+.container {
+    
+    justify-content: center;    
     text-align: center;
+    max-width: 90%;
+    height: auto;
+    margin: 0 auto;
+    
+}
+
+.container h1 {
+    margin-bottom: 2%;
+}
+
+#app h3, h2 {
+    margin-bottom: 2%;
+    
 }
 
 .container ul {
@@ -27,24 +44,33 @@
 
 .nav li {
     list-style-type: none  ;
-    margin: 0px 0px 35%;
+    margin: 0px 0px 25%;
     font-size: 24px;
+    display: block;
     
 }
 
-a {
+.nav li a {
     text-decoration: none;
     color: inherit;
+    
+    
     
 }
 
  .nav li a:after {
     content: '';
-    display: inline-block;
+    float: right;
     background: url("/images/arrow.png") no-repeat;
     width: 11px;
     height: 17px;
-    margin-left: 20px;
+    margin-top: 4%;
+    margin-left: 25px;
+    
+
+    
+    
+    
 }
 
 /* CSS below is for the test, keeping for debugging purposes
