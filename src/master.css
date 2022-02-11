@@ -1,3 +1,54 @@
+.container {
+    
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 50vw;
+    margin: 0 auto;
+}
+
+.container  .app 
+{
+    display: flex;
+    text-align: center;
+}
+
+.container ul {
+    padding: 0;
+}
+
+.nav  {
+    display: inline-block;
+    text-align: left;
+    
+    
+}
+
+
+.nav li {
+    list-style-type: none  ;
+    margin: 0px 0px 35%;
+    font-size: 24px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    
+}
+
+ .nav li:after {
+    content: '';
+    display: inline-block;
+    background: url("/images/arrow.png") no-repeat;
+    width: 11px;
+    height: 17px;
+    margin-left: 20px;
+}
+
+/* CSS below is for the test, keeping for debugging purposes
+
 body {
     --nav-width: 200px;
     margin: 0 0 0 var(--nav-width);
@@ -34,4 +85,5 @@ body {
 
 a {
     color: #009579;
-}
+} 
+end of pwa-test css */

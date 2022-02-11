@@ -4,8 +4,24 @@
 self.addEventListener("install", e => {
     e.waitUntil(
         caches.open("static").then(cache => {
-            return cache.addAll(["./", "./src/master.css", "./images/logo192.png", "./spa/js/views/dashboard.js", "./spa/js/index.js", "./spa/js/views/AbstractView.js",
-            "./src/index.js"])
+            return cache.addAll([
+                "./",
+                "./src/master.css",
+                "./images/arrow.png",
+                "./images/logo192.png",                
+                "./images/apple-touch-icon.png",
+                "./images/120.png",
+                "./images/180.png",
+                "./images/android-launchericon-512-512.png",
+                "./images/android-launchericon-192-192.png",
+                "./images/android-launchericon-144-144.png",
+                "./images/android-launchericon-96-96.png",
+                "./images/android-launchericon-72-72.png",
+                "./images/android-launchericon-48-48.png",
+                "./spa/js/views/dashboard.js",
+                "./spa/js/index.js",
+                "./spa/js/views/AbstractView.js",
+                "./src/index.js"])
         })
     );
     

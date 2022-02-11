@@ -1,4 +1,4 @@
-console.log("JS loaded")
+console.log("SPA JS loaded")
 import dashboard from "./views/dashboard";
 import settings from "./views/settings";
 import posts from "./views/posts";
