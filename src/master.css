@@ -38,7 +38,7 @@ a {
     
 }
 
- .nav li:after {
+ .nav li a:after {
     content: '';
     display: inline-block;
     background: url("/images/arrow.png") no-repeat;
