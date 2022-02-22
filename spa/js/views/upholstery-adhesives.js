@@ -10,6 +10,7 @@ export default class extends AbstractView {
         return `
         
             <strong><h1>Upholstery - Adhesive</h1></strong>
+            <div class ="guide">
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
             <li>Bridgepoint Gum Break &trade;</li>
@@ -26,7 +27,7 @@ export default class extends AbstractView {
             <li>Allow to dwell for 2 minutes.</li>
             <li>Rinse thoroughly.  Assist drying with blotting of dry towel. </li>
             </ol> 
-        
+            </div>
         `;
     }
 }

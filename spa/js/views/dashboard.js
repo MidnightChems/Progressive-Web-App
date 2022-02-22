@@ -8,7 +8,7 @@ export default class extends AbstractView {
 
     async getHtml() {
         return `
-        <h3>Select a Surface</h3>
+        <h2>Select a Surface</h2>
         <ul class="nav">
         <li><a href="/" class="nav__link" data-link>Carpet</a></li>
         <li><a href="/upholstery" class="nav__link" data-link>Upholstery</a></li>
