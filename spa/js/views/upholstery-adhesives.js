@@ -8,14 +8,15 @@ export default class extends AbstractView {
 
     async getHtml() {
         return `
-            <strong><h1>Adhesive</h1></strong>
+        
+            <strong><h1>Upholstery - Adhesive</h1></strong>
             <strong><u>Recommened Products:</u></strong>
-            <ul>
+            <ul class="chems">
             <li>Bridgepoint Gum Break &trade;</li>
             <li>Bridgepoint Gel Break &trade;</li>
             </ul>
             <strong><u>Procedures:</u></strong>
-            <ol type="1">
+            <ol class="procedures" type="1">
             <li>Remove as much as you can mechanically, rinse with water if evident that 
             other chemicals have been used.</li>
             <li>Apply Gum Break (Gel Break in states not regulated by low VOC laws) to 
