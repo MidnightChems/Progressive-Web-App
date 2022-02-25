@@ -9,7 +9,7 @@ SPA - video - https://www.youtube.com/watch?v=6BozpmSjk-Y
 Cloned from Guy's personal public repo (MidnightChems)
 
 
-TO-DO
+## TO-DO
 
 CSS for links
 Audit and check mobile
