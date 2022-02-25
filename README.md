@@ -11,5 +11,6 @@ Cloned from Guy's personal public repo (MidnightChems)
 
 TO-DO
 
-Fix mobile
-Align arrow icons
+CSS for links
+Audit and check mobile
+start adding rest of the content
