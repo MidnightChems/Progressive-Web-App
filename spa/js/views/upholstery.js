@@ -8,7 +8,12 @@ export default class extends AbstractView {
 
     async getHtml() {
         return `
-        <h2>Upholstery</h2>
+        <div class="topNav"> 
+        <div class="topNavBack"><img src="images/back.png" onclick="javascript:history.back();"></div>
+        <div class="topNavText"><h2>Upholstery</h2></div>         
+        <div class="topNavHome"><img src="images/home.png" onclick="location.href='/';"></div> 
+        </div>
+        
         <h3>Select a Surface</h3>
         <ul class="nav">
         <li><a href="/upholstery-adhesives" class="nav__link" data-link>Adhesives</a></li>

@@ -8,6 +8,8 @@ self.addEventListener("install", e => {
                 "./",
                 "./src/master.css",
                 "./images/arrow.png",
+                "./images/home.png",
+                "./images/back.png",                
                 "./images/logo192.png",                
                 "./images/apple-touch-icon.png",
                 "./images/120.png",

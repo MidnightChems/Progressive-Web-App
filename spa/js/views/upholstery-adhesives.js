@@ -8,13 +8,17 @@ export default class extends AbstractView {
 
     async getHtml() {
         return `
-        
-            <strong><h1>Upholstery - Adhesive</h1></strong>
+            <div class="topNav"> 
+            <div class="topNavBack"><img src="images/back.png" onclick="javascript:history.back();"></div>         
+            <div class="topNavText"><strong><h2>Upholstery - Adhesive</h2></strong></div>
+            <div class="topNavHome"><img src="images/home.png" onclick="location.href='/';"></div> 
+            </div>
+                        
             <div class ="guide">
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
-            <li>Bridgepoint Gum Break &trade;</li>
-            <li>Bridgepoint Gel Break &trade;</li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-gum-break-adhesive-remover-1-quart.html" target="_blank">Bridgepoint Gum Break &trade;</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-gel-break-adhesive-remover-1-pint.html" target="_blank">Bridgepoint Gel Break &trade;</a></li>
             </ul>
             <strong><u>Procedures:</u></strong>
             <ol class="procedures" type="1">
