@@ -1,16 +1,16 @@
 console.log("SPA JS loaded");
-import dashboard from "./views/dashboard";
+import dashboard from "/spa/js/views/dashboard.js";
 // importing upholstery pages
-import upholstery from "./views/upholstery";
-import upholsteryAdhesives from "./views/upholstery-adhesives";
-import upholsteryBleach from "./views/upholstery-bleach";
-import upholsteryCompound from "./views/upholstery-compound";
-import upholsteryCurry from "./views/upholstery-curry";
-import upholsteryPolish from "./views/upholstery-polish";
-import upholsteryInks from "./views/upholstery-inks";
-import upholsteryOils from "./views/upholstery-oils";
-import upholsteryOrganic from "./views/upholstery-organic";
-import upholsteryPaint from "./views/upholstery-paint";
+import upholstery from "/spa/js/views/upholstery.js";
+import upholsteryAdhesives from "/spa/js/views/upholstery-adhesives.js";
+import upholsteryBleach from "/spa/js/views/upholstery-bleach.js";
+import upholsteryCompound from "/spa/js/views/upholstery-compound.js";
+import upholsteryCurry from "/spa/js/views/upholstery-curry.js";
+import upholsteryPolish from "/spa/js/views/upholstery-polish.js";
+import upholsteryInks from "/spa/js/views/upholstery-inks.js";
+import upholsteryOils from "/spa/js/views/upholstery-oils.js";
+import upholsteryOrganic from "/spa/js/views/upholstery-organic.js";
+import upholsteryPaint from "/spa/js/views/upholstery-paint.js";
 
 const navigateTo = url =>  {
     history.pushState(null, null, url);
