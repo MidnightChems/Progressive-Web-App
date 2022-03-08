@@ -1,7 +1,5 @@
 // -src https://web.dev/offline-cookbook/
 
-import upholstery from "./spa/js/views/upholstery";
-
 //sets what gets cache'd
 self.addEventListener("install", e => {
     e.waitUntil(
