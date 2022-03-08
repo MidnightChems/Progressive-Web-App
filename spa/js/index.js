@@ -4,6 +4,9 @@ import settings from "./views/settings";
 import posts from "./views/posts";
 import upholstery from "./views/upholstery";
 import upholsteryAdhesives from "./views/upholstery-adhesives";
+import upholsteryBleach from "./views/upholstery-bleach";
+import upholsteryCompound from "./views/upholstery-compound";
+import upholsteryCurry from "./views/upholstery-curry";
 //import test from "../test";
 const navigateTo = url =>  {
     history.pushState(null, null, url);
@@ -17,6 +20,10 @@ const router = async () => {
         { path: "/settings", view: settings},
         { path: "/upholstery", view: upholstery},
         { path: "/upholstery-adhesives", view: upholsteryAdhesives},
+        { path: "/upholstery-bleach", view: upholsteryBleach},
+        { path: "/upholstery-compound", view: upholsteryCompound},
+        { path: "/upholstery-dispersedye", view: upholsteryCurry},
+        
       //{ path: "/test", view: test}
     ];
 

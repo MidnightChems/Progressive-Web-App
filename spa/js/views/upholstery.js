@@ -17,9 +17,9 @@ export default class extends AbstractView {
         <h3>Select a Surface</h3>
         <ul class="nav">
         <li><a href="/upholstery-adhesives" class="nav__link" data-link>Adhesives</a></li>
-        <li><a href="#" class="nav__link" data-link>Bleach Neutralization</a></li>
-        <li><a href="#" class="nav__link" data-link>Compound Emulsification</a></li>
-        <li><a href="#" class="nav__link" data-link>Disperse Dye</a></li> 
+        <li><a href="/upholstery-bleach" class="nav__link" data-link>Bleach Neutralization</a></li>
+        <li><a href="/upholstery-compound" class="nav__link" data-link>Compound Emulsification</a></li>
+        <li><a href="/upholstery-dispersedye" class="nav__link" data-link>Disperse Dye</a></li> 
         <li><a href="#" class="nav__link" data-link>Dye Bleeds</a></li>
         <li><a href="#" class="nav__link" data-link>Inks</a></li>           
         <li><a href="#" class="nav__link" data-link>Oil Based</a></li>      

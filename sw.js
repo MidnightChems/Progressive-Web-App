@@ -20,12 +20,18 @@ self.addEventListener("install", e => {
                 "./images/android-launchericon-96-96.png",
                 "./images/android-launchericon-72-72.png",
                 "./images/android-launchericon-48-48.png",
-                "./spa/js/views/dashboard.js",
+                "./src/index.js",
                 "./spa/js/index.js",
+                "./spa/js/views/dashboard.js",                
                 "./spa/js/views/AbstractView.js",
                 "./spa/js/views/upholstery.js",
                 "./spa/js/views/upholstery-adhesives.js",
-                "./src/index.js"])
+                "./spa/js/views/upholstery-bleach.js",
+                "./spa/js/views/upholstery-compound.js",
+                "./spa/js/views/upholstery-curry.js",
+                
+            
+            ])
         })
     );
     

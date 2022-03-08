@@ -1,15 +1,24 @@
 /* reset CSS */
+
+/* sets default font to use em units */
+html {
+    font-size: 16px;
+}
+
 * {
     padding: 0;
     margin: 0;
     border: 0;
+    
 }
 
-.clearfix::after {
+
+/* probably good to delete
+ .clearfix::after {
     content: "";
     clear: both;
     display: table;
-  }
+  } */
 
 .image {
     max-width:100%;
@@ -27,6 +36,7 @@
     height: auto;
     margin: 0 auto;
     margin-top: 1%;
+    margin-bottom: 1%;
     
 }
 
@@ -83,7 +93,7 @@
 .nav li {
     list-style-type: none  ;
     margin: 0px 0px 15%;
-    font-size: 24px;
+    font-size: 1.3em;
     display: block;
     
 }
@@ -109,7 +119,7 @@
 
 u {
     display: block;
-    font-size: 20px;
+    font-size: 1.3em;
     margin-bottom: 3%;
     text-align: left;
 }
@@ -121,7 +131,7 @@ u {
 .chems {
     display: inline-block;
     text-align: left;
-    font-size: 20px; 
+    font-size: 1.3em; 
     
 }
 
@@ -129,12 +139,17 @@ u {
     margin-bottom: 10%;
 }
 
-
+/* sets text css for info sections */
+p {
+    text-align: left;
+    margin: 10px;
+    font-size: 1.125em;
+}
 
 .procedures {
     display: inline-block;
     text-align: left;
-    font-size: 18px; 
+    font-size: 1.125em; 
     max-width: 85%;
     
 }
