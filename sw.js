@@ -1,5 +1,7 @@
 // -src https://web.dev/offline-cookbook/
 
+import upholstery from "./spa/js/views/upholstery";
+
 //sets what gets cache'd
 self.addEventListener("install", e => {
     e.waitUntil(
@@ -24,11 +26,17 @@ self.addEventListener("install", e => {
                 "./spa/js/index.js",
                 "./spa/js/views/dashboard.js",                
                 "./spa/js/views/AbstractView.js",
+                // cache upholstery
                 "./spa/js/views/upholstery.js",
                 "./spa/js/views/upholstery-adhesives.js",
                 "./spa/js/views/upholstery-bleach.js",
                 "./spa/js/views/upholstery-compound.js",
                 "./spa/js/views/upholstery-curry.js",
+                "./spa/js/views/upholstery-polish.js",
+                "./spa/js/views/upholstery-inks.js",
+                "./spa/js/views/upholstery-oils.js",
+                "./spa/js/views/upholstery-organic.js",
+                "./spa/js/views/upholstery-paint.js",
                 
             
             ])

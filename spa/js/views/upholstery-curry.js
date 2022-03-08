@@ -10,7 +10,7 @@ export default class extends AbstractView {
         return `
             <div class="topNav"> 
             <div class="topNavBack"><img src="images/back.png" onclick="javascript:history.back();"></div>         
-            <div class="topNavText"><strong><h2>Upholstery - Compound Emulsification</h2></strong></div>
+            <div class="topNavText"><strong><h2>Upholstery - Curry, Mustard</h2></strong></div>
             <div class="topNavHome"><img src="images/home.png" onclick="location.href='/';"></div> 
             </div>
                         
@@ -18,7 +18,7 @@ export default class extends AbstractView {
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
             <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-avenge-pro-1-gallon.html" target="_blank">Bridgepoint Avenge Pro™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-avenge-pro-1-gallon.html" target="_blank">Bridgepoint Stain Zone™ </a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-stain-zone-oxidizer-1-quart.html" target="_blank">Bridgepoint Stain Zone™ </a></li>
             <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Spot Stop™</a></li>
             </ul>
             <strong><u>Info:</u></strong>

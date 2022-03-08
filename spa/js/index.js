@@ -1,13 +1,17 @@
 console.log("SPA JS loaded")
 import dashboard from "./views/dashboard";
-import settings from "./views/settings";
-import posts from "./views/posts";
+// importing upholstery pages
 import upholstery from "./views/upholstery";
 import upholsteryAdhesives from "./views/upholstery-adhesives";
 import upholsteryBleach from "./views/upholstery-bleach";
 import upholsteryCompound from "./views/upholstery-compound";
 import upholsteryCurry from "./views/upholstery-curry";
-//import test from "../test";
+import upholsteryPolish from "./views/upholstery-polish";
+import upholsteryInks from "./views/upholstery-inks";
+import upholsteryOils from "./views/upholstery-oils";
+import upholsteryOrganic from "./views/upholstery-organic";
+import upholsteryPaint from "./views/upholstery-paint";
+
 const navigateTo = url =>  {
     history.pushState(null, null, url);
     router();
@@ -16,15 +20,19 @@ const navigateTo = url =>  {
 const router = async () => {
     const routes = [ 
         { path: "/", view: dashboard},
-        { path: "/posts", view: posts},
-        { path: "/settings", view: settings},
+        // importing upholstery pages        
         { path: "/upholstery", view: upholstery},
         { path: "/upholstery-adhesives", view: upholsteryAdhesives},
         { path: "/upholstery-bleach", view: upholsteryBleach},
         { path: "/upholstery-compound", view: upholsteryCompound},
-        { path: "/upholstery-dispersedye", view: upholsteryCurry},
+        { path: "/upholstery-curry", view: upholsteryCurry},
+        { path: "/upholstery-polish", view: upholsteryPolish},
+        { path: "/upholstery-inks", view: upholsteryInks},
+        { path: "/upholstery-oils", view: upholsteryOils},
+        { path: "/upholstery-organic", view: upholsteryOrganic},
+        { path: "/upholstery-paint", view: upholsteryPaint},
         
-      //{ path: "/test", view: test}
+      
     ];
 
     //test each route for match

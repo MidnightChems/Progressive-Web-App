@@ -19,12 +19,12 @@ export default class extends AbstractView {
         <li><a href="/upholstery-adhesives" class="nav__link" data-link>Adhesives</a></li>
         <li><a href="/upholstery-bleach" class="nav__link" data-link>Bleach Neutralization</a></li>
         <li><a href="/upholstery-compound" class="nav__link" data-link>Compound Emulsification</a></li>
-        <li><a href="/upholstery-dispersedye" class="nav__link" data-link>Disperse Dye</a></li> 
-        <li><a href="#" class="nav__link" data-link>Dye Bleeds</a></li>
-        <li><a href="#" class="nav__link" data-link>Inks</a></li>           
-        <li><a href="#" class="nav__link" data-link>Oil Based</a></li>      
-        <li><a href="#" class="nav__link" data-link>Organic</a></li>       
-        <li><a href="#" class="nav__link" data-link>Paint</a></li>
+        <li><a href="/upholstery-curry" class="nav__link" data-link>Disperse Dye - Curry</a></li>
+        <li><a href="/upholstery-polish" class="nav__link" data-link>Disperse Dye - Shoe Polish</a></li>        
+        <li><a href="/upholstery-inks" class="nav__link" data-link>Inks</a></li>           
+        <li><a href="/upholstery-oils" class="nav__link" data-link>Oil Based</a></li>      
+        <li><a href="/upholstery-organic" class="nav__link" data-link>Organic</a></li>       
+        <li><a href="/upholstery-paint" class="nav__link" data-link>Paint</a></li>
         <li><a href="#" class="nav__link" data-link>pH Dependent Stains</a></li>
         <li><a href="#" class="nav__link" data-link>Protein Stains</a></li>
         <li><a href="#" class="nav__link" data-link>Rust</a></li>
