@@ -1,4 +1,4 @@
-console.log("SPA JS loaded")
+console.log("SPA JS loaded");
 import dashboard from "./views/dashboard";
 // importing upholstery pages
 import upholstery from "./views/upholstery";
@@ -49,7 +49,7 @@ const router = async () => {
         match = {
             route: routes[0],
             isMatch: true
-        }
+        };
     }
 
     const view = new match.route.view();
