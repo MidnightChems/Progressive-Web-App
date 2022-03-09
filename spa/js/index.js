@@ -20,8 +20,9 @@ const navigateTo = url =>  {
 const router = async () => {
     const routes = [ 
         { path: "/", view: dashboard},
-        // importing upholstery pages        
         { path: "/upholstery", view: upholstery},
+        // importing upholstery pages        
+        
         { path: "/upholstery-adhesives", view: upholsteryAdhesives},
         { path: "/upholstery-bleach", view: upholsteryBleach},
         { path: "/upholstery-compound", view: upholsteryCompound},
