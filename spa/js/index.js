@@ -15,8 +15,8 @@ import upholsteryPh from "/spa/js/views/upholstery-ph.js";
 import upholsteryProtein from "/spa/js/views/upholstery-protein.js";
 import upholsteryRust from "/spa/js/views/upholstery-rust.js";
 import upholsterySynthetic from "/spa/js/views/upholstery-synthetic.js";
-import upholsterySoils from "/spa/js/views/upholstery-soils";
-import upholsteryUrine from "/spa/js/views/upholstery-urine";
+import upholsterySoils from "/spa/js/views/upholstery-soils.js";
+import upholsteryUrine from "/spa/js/views/upholstery-urine.js";
 // end importing upholstery pages
 
 const navigateTo = url =>  {
