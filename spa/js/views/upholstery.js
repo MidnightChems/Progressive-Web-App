@@ -1,4 +1,4 @@
-import AbstractView from "/spa/js/views//AbstractView.js";
+import AbstractView from "/spa/js/views/AbstractView.js";
 
 export default class extends AbstractView {
     constructor() {
