@@ -78,8 +78,11 @@ document.addEventListener("DOMContentLoaded", () => {
         if (e.target.matches("[data-link]")) {
             e.preventDefault();
             navigateTo(e.target.href);
+            //added below line to scroll window to top when loading new page
+            window.scrollTo(0, 0);
         }
     });
     
     router();
 });
+
