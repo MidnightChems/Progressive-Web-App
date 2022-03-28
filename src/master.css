@@ -1,10 +1,4 @@
 /* reset CSS */
-
-/* sets default font to use em units */
-html {
-    font-size: 16px;
-}
-
 * {
     padding: 0;
     margin: 0;
@@ -12,13 +6,11 @@ html {
     
 }
 
+/* sets default font to use em units */
+html {
+    font-size: 16px;
+}
 
-/* probably good to delete
- .clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
-  } */
 
 .image {
     max-width:100%;
@@ -81,16 +73,23 @@ html {
     padding: 8px 0px 4px 8px;
 }
 
+
+/* CSS for the Category links */
 .nav  {
     display: inline-block;
     text-align: left;
-    margin-top: 5%;
+    margin-top: 5%;    
+    background: url(/images/arrow.png);
+    background-repeat: no-repeat;
+    background-position: 95% 0%;
+    width: 100%;
+    cursor: pointer;
     
     
 }
 
 
-.nav li {
+.nav li, .test {
     list-style-type: none  ;
     margin: 0px 0px 15%;
     font-size: 1.3em;
@@ -98,7 +97,7 @@ html {
     
 }
 
-.nav li a {
+.nav li a, .test {
     text-decoration: none;
     color: inherit;
     
@@ -106,7 +105,8 @@ html {
     
 }
 
- .nav li a:after {
+ /* old css for displaying arrow
+  .nav li a:after {
     content: '';
     float: right;
     background: url("/images/arrow.png") no-repeat;
@@ -115,7 +115,7 @@ html {
     margin-top: 4%;
     margin-left: 25px;
     
-}
+} */
 
 u {
     display: block;
