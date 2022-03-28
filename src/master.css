@@ -89,21 +89,17 @@ html {
 }
 
 
-.nav li, .test {
+ .cat {
     list-style-type: none  ;
     margin: 0px 0px 15%;
     font-size: 1.3em;
     display: block;
-    
-}
-
-.nav li a, .test {
     text-decoration: none;
     color: inherit;
     
-    
-    
 }
+
+
 
  /* old css for displaying arrow
   .nav li a:after {

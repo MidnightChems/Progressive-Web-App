@@ -11,13 +11,13 @@ export default class extends AbstractView {
         return `
         <h2>Select a Surface</h2>
         <div class="nav" data-link onclick="location.href='/'">
-            <div class="test">Carpet</div>
+            <div class="cat">Carpet</div>
         </div>
         <div class="nav" data-link onclick="location.href='/upholstery'">
-            <div class="test">Upholstery</div>
+            <div class="cat">Upholstery</div>
         </div>
         <div class="nav" data-link onclick="location.href='/'">
-            <div class="test">Hard Surfaces</div>
+            <div class="cat">Hard Surfaces</div>
         </div>
         `;
     }

@@ -35,49 +35,49 @@ export default class extends AbstractView {
         </ul> -->         
         
         <div class="nav" data-link onclick="location.href='/upholstery-adhesives'">
-            <div class="test">Adhesives</div>
+            <div class="cat">Adhesives</div>
         </div>
         <div class="nav" data-link onclick="location.href='/upholstery-bleach'">
-            <div class="test">Bleach Neutralization</div>
+            <div class="cat">Bleach Neutralization</div>
         </div>
         <div class="nav" data-link onclick="location.href='/upholstery-compound'">
-            <div class="test">Compound Emulsification</div>
+            <div class="cat">Compound Emulsification</div>
         </div>
         <div class="nav" data-link onclick="location.href='/upholstery-curry'">
-            <div class="test">Disperse Dye - Curry</div>
+            <div class="cat">Disperse Dye - Curry</div>
         </div>
         <div class="nav" data-link onclick="location.href='/upholstery-polish'">
-            <div class="test">Disperse Dye - Shoe Polish</div>
+            <div class="cat">Disperse Dye - Shoe Polish</div>
         </div>
         <div class="nav" data-link onclick="location.href='/upholstery-inks'">
-            <div class="test">Inks</div>
+            <div class="cat">Inks</div>
         </div>
         <div class="nav" data-link onclick="location.href='/upholstery-oils'">
-            <div class="test">Oil Based</div>
+            <div class="cat">Oil Based</div>
         </div>
         <div class="nav" data-link onclick="location.href='/upholstery-organic'">
-            <div class="test">Organic</div>
+            <div class="cat">Organic</div>
         </div>
         <div class="nav" data-link onclick="location.href='/upholstery-paint'">
-            <div class="test">Paint</div>
+            <div class="cat">Paint</div>
         </div>
         <div class="nav" data-link onclick="location.href='/upholstery-ph'">
-            <div class="test">pH Dependent Stains</div>
+            <div class="cat">pH Dependent Stains</div>
         </div>
         <div class="nav" data-link onclick="location.href='/upholstery-protein'">
-            <div class="test">Protein Stains</div>
+            <div class="cat">Protein Stains</div>
         </div>
         <div class="nav" data-link onclick="location.href='/upholstery-rust'">
-            <div class="test">Rust</div>
+            <div class="cat">Rust</div>
         </div>
           <div class="nav" data-link onclick="location.href='/upholstery-synthetic'">
-            <div class="test">Synthetic</div>
+            <div class="cat">Synthetic</div>
         </div>
         <div class="nav" data-link onclick="location.href='/upholstery-soils'">
-            <div class="test">Unusual Soils</div>
+            <div class="cat">Unusual Soils</div>
         </div>
         <div class="nav" data-link onclick="location.href='/upholstery-urine'">
-            <div class="test">Urine</div>
+            <div class="cat">Urine</div>
         </div>
 
         `;
