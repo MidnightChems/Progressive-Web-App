@@ -1,3 +1,6 @@
+//JS file for the SPA
+
+// imports needed Node.js modules
 const express = require("express");
 const path = require("path");
 

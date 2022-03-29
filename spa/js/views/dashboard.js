@@ -10,13 +10,13 @@ export default class extends AbstractView {
     async getHtml() {
         return `
         <h2>Select a Surface</h2>
-        <div class="nav" data-link onclick="location.href='/'">
+        <div class="nav" data-link onclick="location.href='/carpet'">
             <div class="cat">Carpet</div>
         </div>
         <div class="nav" data-link onclick="location.href='/upholstery'">
             <div class="cat">Upholstery</div>
         </div>
-        <div class="nav" data-link onclick="location.href='/'">
+        <div class="nav" data-link onclick="location.href='/hardsurface'">
             <div class="cat">Hard Surfaces</div>
         </div>
         `;

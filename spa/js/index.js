@@ -1,5 +1,8 @@
+//JS file for the SPA
 console.log("SPA JS loaded");
 import dashboard from "/spa/js/views/dashboard.js";
+import carpet from "/spa/js/views/carpet.js";
+import hardSurface from "/spa/js/views/hard-surface.js";
 // importing upholstery pages
 import upholstery from "/spa/js/views/upholstery.js";
 import upholsteryAdhesives from "/spa/js/views/upholstery-adhesives.js";
@@ -18,6 +21,7 @@ import upholsterySynthetic from "/spa/js/views/upholstery-synthetic.js";
 import upholsterySoils from "/spa/js/views/upholstery-soils.js";
 import upholsteryUrine from "/spa/js/views/upholstery-urine.js";
 // end importing upholstery pages
+// importing carpet pages
 
 const navigateTo = url =>  {
     history.pushState(null, null, url);
@@ -25,9 +29,12 @@ const navigateTo = url =>  {
 };
 
 const router = async () => {
-    const routes = [ 
+    const routes = [
+        // importing main pages  
         { path: "/", view: dashboard},
         { path: "/upholstery", view: upholstery},
+        { path: "/carpet", view: carpet},
+        { path: "/hardsurface", view: hardSurface},
         // importing upholstery pages                
         { path: "/upholstery-adhesives", view: upholsteryAdhesives},
         { path: "/upholstery-bleach", view: upholsteryBleach},
@@ -45,6 +52,7 @@ const router = async () => {
         { path: "/upholstery-soils", view: upholsterySoils},
         { path: "/upholstery-urine", view: upholsteryUrine},
         // end importing upholstery pages
+        // importing carpet pages
         
       
     ];

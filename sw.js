@@ -1,3 +1,4 @@
+//JS file for the PWA Service Workers
 // -src https://web.dev/offline-cookbook/
 
 //sets what gets cache'd
@@ -42,8 +43,14 @@ self.addEventListener("install", e => {
                 "./spa/js/views/upholstery-soils.js",
                 "./spa/js/views/upholstery-urine.js",
                 //end cache upholstery
+                //cache carpet
+                "./spa/js/views/carpet.js",
+
+                //end cache upholstery
+                //cache hard surface
+                "./spa/js/views/hard-surface.js",
                 
-            
+                //end cache hard surface
             ])
         })
     );
