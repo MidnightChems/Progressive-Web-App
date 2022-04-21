@@ -4,14 +4,14 @@ import AbstractView from "/spa/js/views/AbstractView.js";
 export default class extends AbstractView {
     constructor() {
         super();
-        this.setTitle("Stain Guide - Upholstery - pH Dependent Stains");
+        this.setTitle("Stain Guide - Upholstery - Synthetic");
     }
 
     async getHtml() {
         return `
             <div class="topNav"> 
             <div class="topNavBack"><img src="images/back.png" onclick="javascript:history.back();"></div>         
-            <div class="topNavText"><strong><h2>Upholstery - pH Dependent Stains</h2></strong></div>
+            <div class="topNavText"><strong><h2>Upholstery - Synthetic</h2></strong></div>
             <div class="topNavHome"><img src="images/home.png" onclick="location.href='/';"></div> 
             </div>
                         
@@ -31,7 +31,7 @@ export default class extends AbstractView {
             <li>Clean entire piece by creating your own Haitian Cotton Shampoo by mixing Fabric Shampoo 1 to 16 with warm water.  Add 1 oz. Coffee Stain Remover per gallon of ready to use solution.  Whip into foam.  Use horsehair brush to apply foam and work into fabric.  Focus attention on stained areas.  For white or near white fabrics, cleaning in direct sunlight will increase the effectiveness of this treatment.</li>
             <li>Allow up to 20 minutes dwell time. Rinse and extract thoroughly.</li>
             <li>If stain persists, apply RedZONE Ready diluted 1 to 1 to the stain only, use cotton swab. Gently work into the fabric. Allow dwell time.</li>
-            <liWhen stain is gone or after 15 minutes, rinse and extract with hot water. Use extra dry vacuum passes.</li>
+            <li>When stain is gone or after 15 minutes, rinse and extract with hot water. Use extra dry vacuum passes.</li>
             <li>Mist on Spot Stop. Work in with fabric brush.</li> 
             </ol> 
             </div>

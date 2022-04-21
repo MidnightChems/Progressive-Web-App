@@ -1,5 +1,6 @@
 //JS file for the SPA
 console.log("SPA JS loaded");
+// importing main pages
 import dashboard from "/spa/js/views/dashboard.js";
 import carpet from "/spa/js/views/carpet.js";
 import hardSurface from "/spa/js/views/hard-surface.js";

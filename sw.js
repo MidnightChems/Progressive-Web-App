@@ -45,6 +45,25 @@ self.addEventListener("install", e => {
                 //end cache upholstery
                 //cache carpet
                 "./spa/js/views/carpet.js",
+                "./spa/js/views/carpet-adhesives.js",
+                "./spa/js/views/carpet-bleach.js",
+                "./spa/js/views/carpet-clay.js",
+                "./spa/js/views/carpet-compound.js",
+                "./spa/js/views/carpet-curry.js",
+                "./spa/js/views/carpet-filtration.js",
+                "./spa/js/views/carpet-furniture.js",
+                "./spa/js/views/carpet-inks.js",
+                "./spa/js/views/carpet-oil.js",
+                "./spa/js/views/carpet-organic.js",
+                "./spa/js/views/carpet-paint.js",
+                "./spa/js/views/carpet-ph.js",
+                "./spa/js/views/carpet-polish.js",
+                "./spa/js/views/carpet-protein.js",
+                "./spa/js/views/carpet-rust.js",
+                "./spa/js/views/carpet-salt.js",
+                "./spa/js/views/carpet-synthetic.js",
+                "./spa/js/views/carpet-toner.js",
+                "./spa/js/views/carpet-urine.js",
 
                 //end cache upholstery
                 //cache hard surface
