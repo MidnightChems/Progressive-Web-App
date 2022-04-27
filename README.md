@@ -10,7 +10,4 @@ Cloned from Guy's personal public repo (MidnightChems)
 
 
 ## TO-DO
-
-CSS for links
-Audit and check mobile
-start adding rest of the content
+Add search bar to home page
