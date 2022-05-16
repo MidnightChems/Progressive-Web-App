@@ -35,13 +35,13 @@ export default class extends AbstractView {
             <div class="cat">Surface Adhesion – Efflorescence</div>
         </div>
           <div class="nav" data-link onclick="location.href='/hardsurface-scum'">
-            <div class="cat">Surface Adhesion – Mineral Build up, Soap Scum</div>
+            <div class="cat">Surface Adhesion – Minerals & Soap Scum</div>
         </div>
         <div class="nav" data-link onclick="location.href='/hardsurface-etching'">
             <div class="cat">Surface Etching</div>
         </div>
-        <div class="nav" data-link onclick="location.href='/hardsurface-synthetic'">
-            <div class="cat">Synthetic</div>
+        <div class="nav" data-link onclick="location.href='/hardsurface-dye'">
+            <div class="cat">Dye</div>
         </div>
         `;
     }

@@ -68,6 +68,15 @@ self.addEventListener("install", e => {
                 //end cache upholstery
                 //cache hard surface
                 "./spa/js/views/hard-surface.js",
+                "./spa/js/views/hard-surface-adhesives.js",
+                "./spa/js/views/hard-surface-curry.js",
+                "./spa/js/views/hard-surface-dye.js",
+                "./spa/js/views/hard-surface-efflorescence.js",
+                "./spa/js/views/hard-surface-etching.js",
+                "./spa/js/views/hard-surface-oils.js",
+                "./spa/js/views/hard-surface-organic.js",
+                "./spa/js/views/hard-surface-rust.js",
+                "./spa/js/views/hard-surface-scum.js",              
                 
                 //end cache hard surface
             ])

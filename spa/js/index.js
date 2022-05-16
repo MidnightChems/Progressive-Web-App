@@ -41,7 +41,19 @@ import carpetRust from "/spa/js/views/carpet-rust.js";
 import carpetSynthetic from "/spa/js/views/carpet-synthetic.js";
 import carpetToner from "/spa/js/views/carpet-toner.js";
 import carpetSalt from "/spa/js/views/carpet-salt.js";
-import carpetUrine from "/spa/js/views/carpet-urine.js"; 
+import carpetUrine from "/spa/js/views/carpet-urine.js";
+// end importing carpet pages 
+//importing hard surface pages
+import hardSurfaceAdhesives from "/spa/js/views/hard-surface-adhesives.js";
+import hardSurfaceCurry from "/spa/js/views/hard-surface-curry.js";
+import hardSurfaceDye from "/spa/js/views/hard-surface-dye.js";
+import hardSurfaceEfflorescence from "/spa/js/views/hard-surface-efflorescence.js";
+import hardSurfaceEtching from "/spa/js/views/hard-surface-etching.js";
+import hardSurfaceOils from "/spa/js/views/hard-surface-oils.js";
+import hardSurfaceOrganic from "/spa/js/views/hard-surface-organic.js";
+import hardSurfaceRust from "/spa/js/views/hard-surface-rust.js";
+import hardSurfaceScum from "/spa/js/views/hard-surface-scum.js";
+//end importing hard surface pages
 
 const navigateTo = url =>  {
     history.pushState(null, null, url);
@@ -50,12 +62,12 @@ const navigateTo = url =>  {
 
 const router = async () => {
     const routes = [
-        // importing main pages  
+        // route main pages  
         { path: "/", view: dashboard},
         { path: "/upholstery", view: upholstery},
         { path: "/carpet", view: carpet},
         { path: "/hardsurface", view: hardSurface},
-        // importing upholstery pages                
+        // route upholstery pages                
         { path: "/upholstery-adhesives", view: upholsteryAdhesives},
         { path: "/upholstery-bleach", view: upholsteryBleach},
         { path: "/upholstery-compound", view: upholsteryCompound},
@@ -71,8 +83,8 @@ const router = async () => {
         { path: "/upholstery-synthetic", view: upholsterySynthetic},
         { path: "/upholstery-soils", view: upholsterySoils},
         { path: "/upholstery-urine", view: upholsteryUrine},
-        // end importing upholstery pages
-        // importing carpet pages
+        // end route upholstery pages
+        // route carpet pages
         { path: "/carpet-adhesives", view: carpetAdhesives},
         { path: "/carpet-bleach", view: carpetBleach},
         { path: "/carpet-compound", view: carpetCompound},
@@ -92,9 +104,19 @@ const router = async () => {
         { path: "/carpet-synthetic", view: carpetSynthetic},        
         { path: "/carpet-urine", view: carpetUrine},
         { path: "/carpet-toner", view: carpetToner},
-
-
-          // end importing carpet pages
+          // end route carpet pages
+          // route hard surface pages
+        { path: "/hardsurface-adhesives", view: hardSurfaceAdhesives},
+        { path: "/hardsurface-curry", view: hardSurfaceCurry},
+        { path: "/hardsurface-dye", view: hardSurfaceDye},
+        { path: "/hardsurface-efflorescence", view: hardSurfaceEfflorescence},
+        { path: "/hardsurface-etching", view: hardSurfaceEtching},
+        { path: "/hardsurface-oils", view: hardSurfaceOils},
+        { path: "/hardsurface-organic", view: hardSurfaceOrganic},
+        { path: "/hardsurface-rust", view: hardSurfaceRust},
+        { path: "/hardsurface-scum", view: hardSurfaceScum},
+        // end route hard surface pages
+        
       
     ];
 

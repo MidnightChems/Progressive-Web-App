@@ -151,3 +151,16 @@ p {
     
 }
 
+/* Css for interlinksupply link on dashboard */
+.storeLink {
+    background-color:#c8322e;
+    border-radius: 12px;
+    color: white;
+    padding: 1%;
+    margin-bottom: 3%;
+}
+
+.storeLink a {
+    text-decoration: none;
+    color: #323996;
+}

@@ -1,6 +1,6 @@
 {
-    "name": "PWA Test" ,
-    "short_name": "PWA" ,
+    "name": "Stain Guide Alpha" ,
+    "short_name": "PWA-Alpha" ,
     "start_url": "." ,
     "background_color": "#c8322e",
     "theme_color": "#323996" ,
