@@ -1,5 +1,5 @@
 # PWA-Test
-Testing out code for Progressive Web App PWA
+Testing out code for a Single Page Progressive Web App PWA
 
 Demo PWA video - https://www.youtube.com/watch?v=WbbAPfDVqfY
 
