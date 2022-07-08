@@ -18,15 +18,15 @@ export default class extends AbstractView {
             <div class ="guide">
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Spot Stop™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-red-zone-ready-one-part-red-stain-remover-1-quart.html" target="_blank">Bridgepoint Red Zone Ready™</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Systems™ Spot Stop</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-red-zone-ready-one-part-red-stain-remover-1-quart.html" target="_blank">Bridgepoint Systems™ Red Zone Ready</a></li>
             </ul>
             <strong><u>Info:</u></strong>
             <p>Note: The products in this stain class often contain bleach. When they come in contact with fibers (natural or synthetic) they may remove color from the fiber. Because of other ingredients in the staining material that attract soil, the stain will often look dark and the bleaching effect will not be apparent until the surface soil is removed.
             </p>
             <strong><u>Procedures:</u></strong>
             <ol class="procedures" type="1">
-            <li>Apply RedZONE Ready. Spray on generously.</li>
+            <li>Apply Red Zone Ready. Spray on generously.</li>
             <li>Agitate to assure penetration. Allow 10 minutes dwell time. Rinse thoroughly. Make dry passes.</li>
             <li>If stain remains, apply more RedZONE Ready. Use damp white towel and steam iron or a steamer to provide heat. Check after 20 to 30 seconds.</li>
             <li>Repeat if necessary.</li>

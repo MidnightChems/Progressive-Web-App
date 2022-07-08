@@ -18,9 +18,9 @@ export default class extends AbstractView {
             <div class ="guide">
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-stain-zone-oxidizer-1-quart.html" target="_blank">Bridgepoint Stain Zone™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Spot Stop™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-extraction-rinse-fab-set-1-gallon.html" target="_blank">Bridgepoint Fab-Set™</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-stain-zone-oxidizer-1-quart.html" target="_blank">Bridgepoint Systems™ Stain Zone</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Systems™ Spot Stop</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-extraction-rinse-fab-set-1-gallon.html" target="_blank">Bridgepoint Systems™ Fab-Set</a></li>
             </ul>   
             <strong><u>Procedures:</u></strong>
             <ol class="procedures" type="1">            

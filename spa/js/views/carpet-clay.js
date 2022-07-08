@@ -18,8 +18,8 @@ export default class extends AbstractView {
             <div class ="guide">
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-avenge-pro-1-gallon.html" target="_blank">Bridgepoint Avenge Pro™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-t-rust-rust-remover-1-gallon.html" target="_blank">Bridgepoint T-Rust™</a></li>         
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-avenge-pro-1-gallon.html" target="_blank">Bridgepoint Systems™ Avenge Pro</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-t-rust-rust-remover-1-gallon.html" target="_blank">Bridgepoint Systems™ T-Rust</a></li>         
             </ul>   
             <strong><u>Procedures:</u></strong>
             <ol class="procedures" type="1">            

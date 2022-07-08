@@ -30,7 +30,7 @@ export default class extends AbstractView {
             <ol class="procedures" type="1">
             <li>Mix Viper Neutral Stone Cleaner or Viper Stone Perfect 1:8 with water. Spray onto to stained area. Allow several minutes dwell time. Rinse with extraction equipment. This will neutralize the acid and prevent continuing damage.</li>
             <li>If a stain is present, apply industry distributed poultice. Follow directions on the label.</li>
-            <li> If there is discoloration after step 2, mix up a paste with water and Bridgepoint Systems Boost All and allow to dry to remove discoloration.  Depending upon the particular make-up of the stone and what caused the etch, the surface will be etched to a greater or lesser extent. It will be necessary to restore the original level of gloss. This will require one or more Spinergy Polishing Pads. See Spinergy Stone Maintenance & Cleaning Reference Guide for help in evaluating which grits to use and how to polish the floor.</li>
+            <li> If there is discoloration after step 2, mix up a paste with water and Bridgepoint Systems™  Boost All and allow to dry to remove discoloration.  Depending upon the particular make-up of the stone and what caused the etch, the surface will be etched to a greater or lesser extent. It will be necessary to restore the original level of gloss. This will require one or more Spinergy Polishing Pads. See Spinergy Stone Maintenance & Cleaning Reference Guide for help in evaluating which grits to use and how to polish the floor.</li>
             <li>Apply SolidRock  or Prestige Impregnating Sealers to aid in limiting further issues.</li>           
             </ol> 
             </div>

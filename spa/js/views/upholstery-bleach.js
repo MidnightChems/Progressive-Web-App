@@ -18,14 +18,14 @@ export default class extends AbstractView {
             <div class ="guide">
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-all-solv-extreme-gel-12-oz.html" target="_blank">Bridgepoint All Solv Extreme™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-red-zone-ready-one-part-red-stain-remover-1-quart.html" target="_blank">Bridgepoint Red Zone Ready™</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-all-solv-extreme-gel-12-oz.html" target="_blank">Bridgepoint Systems™ All Solv Extreme™</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-red-zone-ready-one-part-red-stain-remover-1-quart.html" target="_blank">Bridgepoint Systems™ Red Zone Ready</a></li>
             </ul>
             <strong><u>Procedures:</u></strong>
             <ol class="procedures" type="1">
             <li>Rinse with water if evident other chemicals have been used.</li>
             <li>Apply All Solv Extreme to a clean white cotton towel. Wipe affected area gently from several directions.</li>
-            <li>Mix RedZONE Ready with hot water. Mist on. Brush gently to assure penetration.</li>
+            <li>Mix Red Zone Ready with hot water. Mist on. Brush gently to assure penetration.</li>
             <li>This will remove and neutralize contamination to prevent further damage, but will not replace lost color. Color repair (spot dye) should be considered.</li>
             </ol> 
             </div>

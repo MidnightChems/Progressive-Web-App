@@ -18,11 +18,11 @@ export default class extends AbstractView {
             <div class ="guide">
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-pet-stain-odor-neutralizer-urine-neutralizer-1-gallon.html" target="_blank">Bridgepoint Urine Neutralizer™</a></li>
-            <li><a href="https://interlinksupply.com/catalogsearch/result/?q=Bridgepoint+Prespray" target="_blank">Bridgepoint Prespray™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-extraction-rinse-end-zone-1-gallon.html" target="_blank">Bridgepoint End Zone™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-extraction-rinse-flex-ice-6-lbs.html" target="_blank">Bridgepoint Flex Ice™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Spot Stop™</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-pet-stain-odor-neutralizer-urine-neutralizer-1-gallon.html" target="_blank">Bridgepoint Systems™ Urine Neutralizer</a></li>
+            <li><a href="https://interlinksupply.com/catalogsearch/result/?q=Bridgepoint+Prespray" target="_blank">Bridgepoint Systems™ Prespray</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-extraction-rinse-end-zone-1-gallon.html" target="_blank">Bridgepoint Systems™ End Zone</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-extraction-rinse-flex-ice-6-lbs.html" target="_blank">Bridgepoint Systems™ Flex Ice</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Systems™ Spot Stop</a></li>
             </ul>
             <strong><u>Procedures:</u></strong>
             <ol class="procedures" type="1">
