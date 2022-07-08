@@ -18,10 +18,10 @@ export default class extends AbstractView {
             <div class ="guide">
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-avenge-pro-1-gallon.html" target="_blank">Bridgepoint Avenge Pro™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-p-i-g-paint-ink-grease-remover-1-quart.html" target="_blank">Bridgepoint P.I.G. ™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-all-solv-extreme-gel-12-oz.html" target="_blank">Bridgepoint All Solv Extreme™ </a>(Do not use on rayon or acetate fabrics.)</li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Spot Stop™</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-avenge-pro-1-gallon.html" target="_blank">Bridgepoint Systems™ Avenge Pro</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-p-i-g-paint-ink-grease-remover-1-quart.html" target="_blank">Bridgepoint Systems™ P.I.G.</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-all-solv-extreme-gel-12-oz.html" target="_blank">Bridgepoint Systems™ All Solv Extreme™</a>(Do not use on rayon or acetate fabrics.)</li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Systems™ Spot Stop</a></li>
             </ul>
             <strong><u>Caution:</u></strong>
             <p>Rayon or acetate fibers can be dissolved by this procedure. Cotton and some other natural fibers can be weakened. Use this method for salvage only after standard cleaning procedures have failed. It is suggested that you get informed consent from the client.</p>

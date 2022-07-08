@@ -18,11 +18,11 @@ export default class extends AbstractView {
             <div class ="guide">
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-extraction-rinse-fab-set-1-gallon.html" target="_blank">Bridgepoint Fab-Set™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-upholstery-cleaning-oxybuff-cotton-shampoo-8-lbs.html" target="_blank">Bridgepoint OxyBuff Cotton Shampoo™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-upholstery-cleaning-fabric-shampoo-1-gallon.html" target="_blank">Bridgepoint Fabric Shampoo™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-coffee-stain-remover-2-lbs.html" target="_blank">Bridgepoint Coffee Stain Remover™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Spot Stop™</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-extraction-rinse-fab-set-1-gallon.html" target="_blank">Bridgepoint Systems™ Fab-Set</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-upholstery-cleaning-oxybuff-cotton-shampoo-8-lbs.html" target="_blank">Bridgepoint Systems™ OxyBuff Cotton Shampoo</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-upholstery-cleaning-fabric-shampoo-1-gallon.html" target="_blank">Bridgepoint Systems™ Fabric Shampoo</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-coffee-stain-remover-2-lbs.html" target="_blank">Bridgepoint Systems™ Coffee Stain Remover</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Systems™ Spot Stop</a></li>
             </ul>   
             <strong><u>Info:</u></strong>
             <p>Yellowing may result from several factors or a combination of factors. Safer and simpler solutions are listed first. Test to see what process is safe and effective for each situation. Yellowing from age and/or exposure to sunlight will have weakened fabric. Proceed with caution.</p>
