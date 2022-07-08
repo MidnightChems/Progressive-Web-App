@@ -27,7 +27,7 @@ export default class extends AbstractView {
             <li>Apply Stain Zone.</li>
             <li>Lightly agitate.</li>
             <li>Rinse thoroughly and dry with multiple strokes.</li>
-            <li>If no stain remains, mist with Spot Stop, and brush in with a Whiz Groom. *If stain remains, apply Stain Zone and leave to dry naturally. Stain will disappear in 1 to 8 hours.</li>
+            <li>If no stain remains, mist with Spot Stop, and work in with a brush. *If stain remains, apply Stain Zone and leave to dry naturally. Stain will disappear in 1 to 8 hours.</li>
             <p>For large areas of browning or yellowing:</p>
             <li>Spray on Fab-Set mixed 4 to 8 oz. per gallon.</li>
             <li>Work in with carpet brush. Browning or yellowing will gradually fade over next 30 minutes.</li>            

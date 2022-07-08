@@ -23,8 +23,7 @@ export default class extends AbstractView {
             </ul>
             <strong><u>Procedures:</u></strong>
             <ol class="procedures" type="1">
-            <li>Apply Avenge Pro.</li>
-            <li>Apply Avenge Pro Spotter. Agitate lightly to produce foam.</li>
+            <li>Apply Avenge Pro.</li>            
             <li>Agitate lightly to emulsify compound.</li>
             <li>Rinse thoroughly with hot water.</li>
             <li>Mist with Spot Stop, and work in with a carpet brush.</li>

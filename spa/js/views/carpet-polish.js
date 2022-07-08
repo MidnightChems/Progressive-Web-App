@@ -25,7 +25,7 @@ export default class extends AbstractView {
             <ol class="procedures" type="1">
             <li>If stain is still damp, blot up as much as possible. If stain is dry, Use agitation to break into pieces and vacuum up as much as possible.</li>
             <li>Apply Avenge Pro to the affected area. Agitate to produce foam. Staining material will be visible in foam.</li>
-            <li>Use back edge of Whiz Groom to scrape foam and staining material into towel.</li>
+            <li>Use back edge of Gum Getter to scrape foam and staining material into towel.</li>
             <li>Repeat as long as progress is being made.</li>
             <li>Rinse and extract with hot water. Make additional vacuum passes to get carpet reasonably dry.</li>
             <li>Apply All Solv Xtreme to white towel and thoroughly wipe affected area.</li>

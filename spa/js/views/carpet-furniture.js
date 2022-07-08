@@ -28,9 +28,9 @@ export default class extends AbstractView {
             <strong><u>Procedures:</u></strong>
             <ol class="procedures" type="1">            
             <li>If fresh - apply Avenge Pro, agitate and extract.</li>
-            <li>If no stain remains, mist with Spot Stop, and brush in with a Whiz Groom.</li>
+            <li>If no stain remains, mist with Spot Stop, and work in with a brush.</li>
             <p>If the stain remains or is older than a few minutes:</p>
-            <li>Apply All Solv Xtreme to a clean white absorbent towel. Slowly wipe across the stained area from several directions. Continue if any staining material is being removed.</li>
+            <li>Apply All Solv Xtreme to a clean white absorbent towel. Slowly wipe across the stained area from several directions. Continue if any staining material is being removed. Rinse out before next step.</li>
             <li>Apply Stain Zone to the stained fibers</li>
             <li>Cover with plastic to allow longer dwell time - up to 16 hours</li>
             <li>If stain remains - repeat. If the stain doesn't respond you may try Stain Zone with a heat treatment, but loss of carpet color is a potential issue.</li>
