@@ -25,7 +25,7 @@ export default class extends AbstractView {
             <p>Visit our online store: <a href="https://interlinksupply.com/" target="_blank">interlinksupply.com</a></p>
         </div>
         <div class="storeLink">
-            <p><a href="https://www.aramsco.com/terms-conditions" target="_blank">Terms & Conditions</a></p>
+            <p><a href="https://interlinksupply.com/terms-conditions" target="_blank">Terms & Conditions</a></p>
         </div>
         `;
     }
