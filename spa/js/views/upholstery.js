@@ -61,12 +61,6 @@ export default class extends AbstractView {
         <div class="nav" data-link onclick="location.href='/upholstery-ph'">
             <div class="cat">pH Dependent Stains</div>
         </div>
-        <div class="nav" data-link onclick="location.href='/upholstery-protein'">
-            <div class="cat">Protein Stains</div>
-        </div>
-        <div class="nav" data-link onclick="location.href='/upholstery-rust'">
-            <div class="cat">Rust</div>
-        </div>
           <div class="nav" data-link onclick="location.href='/upholstery-synthetic'">
             <div class="cat">Synthetic</div>
         </div>
