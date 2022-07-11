@@ -21,7 +21,7 @@ export default class extends AbstractView {
         </div>
 
         <div id="searchDash" data-link onclick="location.href='/search'">
-            <div class="cat"><img src ="./images/placeholder_search.png"></div>
+            <div class="cat"><img src ="./images/placeholder_search.png" width="335" height="44" alt="search page link"></div>
         </div>
         
         <div class="storeLink-menu">
