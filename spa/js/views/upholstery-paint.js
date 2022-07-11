@@ -20,7 +20,7 @@ export default class extends AbstractView {
             <ul class="chems">
             <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-avenge-pro-1-gallon.html" target="_blank">Bridgepoint Systems™ Avenge Pro</a></li>
             <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-p-i-g-paint-ink-grease-remover-1-quart.html" target="_blank">Bridgepoint Systems™ P.I.G.</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-all-solv-extreme-gel-12-oz.html" target="_blank">Bridgepoint Systems™ All Solv Extreme™</a>(Do not use on rayon or acetate fabrics.)</li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-all-solv-extreme-gel-12-oz.html" target="_blank">Bridgepoint Systems™ All Solv Extreme</a>(Do not use on rayon or acetate fabrics.)</li>
             <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Systems™ Spot Stop</a></li>
             </ul>
             <strong><u>Caution:</u></strong>

@@ -18,9 +18,9 @@ export default class extends AbstractView {
             <div class ="guide">
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-filter-free-filtration-soil-remover-1-quart.html" target="_blank">Bridgepoint Systems™ Filter Free™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-carpet-cleaning-prespray-traffic-slam-1-gallon.html" target="_blank">Bridgepoint Systems™ Traffic Slam™ (optional)</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-stain-zone-oxidizer-1-quart.html" target="_blank">Bridgepoint Systems™ Stain Zone™</a></li>          
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-filter-free-filtration-soil-remover-1-quart.html" target="_blank">Bridgepoint Systems™ Filter Free</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-carpet-cleaning-prespray-traffic-slam-1-gallon.html" target="_blank">Bridgepoint Systems™ Traffic Slam (optional)</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-stain-zone-oxidizer-1-quart.html" target="_blank">Bridgepoint Systems™ Stain Zone</a></li>          
             </ul>   
             <strong><u>Procedures:</u></strong>
             <ol class="procedures" type="1">            

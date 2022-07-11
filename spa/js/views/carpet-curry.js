@@ -18,9 +18,9 @@ export default class extends AbstractView {
             <div class ="guide">
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-avenge-pro-1-gallon.html" target="_blank">Bridgepoint Systems™ Avenge Pro™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-stain-zone-oxidizer-1-quart.html" target="_blank">Bridgepoint Systems™ Stain Zone™ </a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Systems™ Spot Stop™</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-avenge-pro-1-gallon.html" target="_blank">Bridgepoint Systems™ Avenge Pro</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-stain-zone-oxidizer-1-quart.html" target="_blank">Bridgepoint Systems™ Stain Zone</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Systems™ Spot Stop</a></li>
             </ul>
             <strong><u>Info:</u></strong>
             <p>Yellow Curry, most mustard and other pickled product will contain turmeric. Turmeric is an herbal plant in the ginger family grown in tropical South Asia. Once processed it has a deep orange yellow color that is used to color and flavor mustard and other food product. The color in this powder is strong enough to be used as a dye in fabrics. It is a potent disperse dye that will not always be removable from fiber while maintaining the original color of that fiber. If previous treatment and cleaning to the stain has occurred, it lessens the chance the stain can be removed.</p>

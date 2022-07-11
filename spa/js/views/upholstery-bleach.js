@@ -18,7 +18,7 @@ export default class extends AbstractView {
             <div class ="guide">
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-all-solv-extreme-gel-12-oz.html" target="_blank">Bridgepoint Systems™ All Solv Extreme™</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-all-solv-extreme-gel-12-oz.html" target="_blank">Bridgepoint Systems™ All Solv Extreme</a></li>
             <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-red-zone-ready-one-part-red-stain-remover-1-quart.html" target="_blank">Bridgepoint Systems™ Red Zone Ready</a></li>
             </ul>
             <strong><u>Procedures:</u></strong>
