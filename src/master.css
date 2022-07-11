@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
     border: 0;
-    
+
 }
 
 /* sets default font to use em units */
@@ -13,14 +13,14 @@ html {
 
 
 .image {
-    max-width:100%;
+    max-width: 100%;
     height: auto;
-    
+
 }
 
 .container {
-    
-    justify-content: center;    
+
+    justify-content: center;
     text-align: center;
     width: 90%;
     max-width: 350px;
@@ -29,20 +29,21 @@ html {
     margin: 0 auto;
     margin-top: 1%;
     margin-bottom: 1%;
-    
+
 }
 
 .container h1 {
     margin-bottom: 4%;
 }
 
-#app h3, h2 {
+#app h3,
+h2 {
     margin-bottom: 10%;
-    
+
 }
 
 #app h3 {
-    margin:1%;
+    margin: 1%;
 }
 
 .container ul {
@@ -51,7 +52,7 @@ html {
 
 .topNav {
     width: 100%;
-    height:65px;
+    height: 65px;
     clear: both;
 }
 
@@ -63,8 +64,8 @@ html {
 
 .topNavText {
     float: left;
-     padding: 8px 0px 0px 20px;
-    width: 65%; 
+    padding: 8px 0px 0px 20px;
+    width: 65%;
 }
 
 .topNavHome {
@@ -75,34 +76,34 @@ html {
 
 
 /* CSS for the Category links */
-.nav  {
+.nav {
     display: inline-block;
     text-align: left;
-    margin-top: 5%;    
+    margin-top: 5%;
     background: url(/images/arrow.png);
     background-repeat: no-repeat;
     background-position: 95% 0%;
     width: 100%;
     cursor: pointer;
-    height:50px;
-    
-    
+    height: 50px;
+
+
 }
 
 /* CSS for the Category links */
- .cat {
-    list-style-type: none  ;
+.cat {
+    list-style-type: none;
     margin: 0px 0px 15%;
     font-size: 1.3em;
     display: block;
     text-decoration: none;
     color: inherit;
-    
+
 }
 
 
 
- /* old css for displaying arrow
+/* old css for displaying arrow
   .nav li a:after {
     content: '';
     float: right;
@@ -128,8 +129,8 @@ u {
 .chems {
     display: inline-block;
     text-align: left;
-    font-size: 1.3em; 
-    
+    font-size: 1.3em;
+
 }
 
 .chems li {
@@ -146,21 +147,40 @@ p {
 .procedures {
     display: inline-block;
     text-align: left;
-    font-size: 1.125em; 
+    font-size: 1.125em;
     max-width: 85%;
-    
+
 }
 
 /* Css for interlinksupply link on dashboard */
+
+.storeLink-menu {
+    position: relative;
+    color: gray;
+    margin-top: 35%;
+}
+
+.storeLink-menu:hover .storeLink {
+    display: block;
+}
+
+.storeLink-menu:hover {
+    color: #c8322e;
+}
+
 .storeLink {
-    background-color:#c8322e;
-    border-radius: 12px;
-    color: white;
-    padding: 1%;
-    margin-bottom: 3%;
+    color: gray;
+    display: none;
+    padding: 12px 16px;
+    
 }
 
 .storeLink a {
     text-decoration: none;
-    color: #323996;
+    color: gray;
+}
+
+.storeLink a:hover {
+
+    color: #c8322e;
 }
