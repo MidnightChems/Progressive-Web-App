@@ -18,19 +18,35 @@ html {
 
 }
 
+/* setting container width based on screen size */
+@media only screen and (max-width:499px) {
+    .container {
+        width: 90vw; 
+    }
+}
+@media only screen and (min-width:500px) and (max-width:1600px) {
+    .container {
+        width: 60vw; 
+    }
+}
+@media only screen and (min-width:1601px) {
+    .container {
+        width: 25vw; 
+    }
+}
+
 .container {
 
     justify-content: center;
-    text-align: center;
-    width: 90%;
-    max-width: 350px;
-    min-width: 345px;
+    text-align: center;        
     height: auto;
     margin: 0 auto;
     margin-top: 1%;
-    margin-bottom: 1%;
+    margin-bottom: 1%; 
+
 
 }
+
 
 .container h1 {
     margin-bottom: 4%;
@@ -82,7 +98,7 @@ h2 {
     margin-top: 5%;
     background: url(/images/arrow.png);
     background-repeat: no-repeat;
-    background-position: 95% 0%;
+    background-position: 100% 0%;
     width: 100%;
     cursor: pointer;
     height: 50px;
@@ -100,20 +116,6 @@ h2 {
     color: inherit;
 
 }
-
-
-
-/* old css for displaying arrow
-  .nav li a:after {
-    content: '';
-    float: right;
-    background: url("/images/arrow.png") no-repeat;
-    width: 11px;
-    height: 17px;
-    margin-top: 4%;
-    margin-left: 25px;
-    
-} */
 
 u {
     display: block;
