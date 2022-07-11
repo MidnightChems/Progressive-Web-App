@@ -20,7 +20,7 @@ export default class extends AbstractView {
             <div class="cat">Hard Surfaces</div>
         </div>
 
-        <div class="searchDash" data-link onclick="location.href='/search'">
+        <div id="searchDash" data-link onclick="location.href='/search'">
             <div class="cat"><img src ="./images/placeholder_search.png"></div>
         </div>
         
