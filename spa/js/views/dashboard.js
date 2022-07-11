@@ -19,6 +19,10 @@ export default class extends AbstractView {
         <div class="nav" data-link onclick="location.href='/hardsurface'">
             <div class="cat">Hard Surfaces</div>
         </div>
+
+        <div class="searchDash" data-link onclick="location.href='/search'">
+            <div class="cat"><img src ="./images/placeholder_search.png"></div>
+        </div>
         
         <div class="storeLink-menu">
         <span><h3>Links &#9776</h3><span>

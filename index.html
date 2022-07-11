@@ -10,18 +10,38 @@
         <link rel="shortcut icon" href="images/apple-touch-icon.png">
         <link rel="apple-touch-icon" sizes="120x120" href="images/120.png">
         <link rel="apple-touch-icon" sizes="180x180" href="images/180.png">
+        <script>
+            //added below line to scroll window to top when loading new page
+            window.scrollTo(0, 0);            
+        </script>
+        <!-- below script allows search function to work -->
+        <script>         
+            function mySearch() {
+                var input, filter, ul, li, a, i, txtValue;
+                input = document.getElementById("myInput");
+                filter = input.value.toUpperCase();
+                ul = document.getElementById("searchList");
+                li = ul.getElementsByClassName("nav");
+                for (i = 0; i < li.length; i++) {
+                    a = li[i].getElementsByClassName("cat")[0];
+                    txtValue = a.textContent || a.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        li[i].style.display = "";
+                    } else {
+                        li[i].style.display = "none";
+                    }
+                }
+            }
+        </script>
           
     </head>
     <body>        
         <!-- SW script -->
         <script src="/src/index.js"></script>
         <!-- SPA script         -->
-        <script type="module" src="/spa/js/index.js"></script>
-        <!-- <ul class="nav">
-            <li><a href="/" class="nav__link" data-link>Dashboard</a></li>
-            <li><a href="/posts" class="nav__link" data-link>Posts</a></li>
-            <li><a href="/settings" class="nav__link" data-link>Settings</a></li>         
-        </ul> -->
+        <script type="module" src="/spa/js/index.js"></script> 
+        
+        
         <div class="container">
             <img class="image" width="300px" height="59px"  src="/images/ILS.png" alt="Interlink Supply">
             <h1>Spot & Stain Guide</h1>        

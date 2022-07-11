@@ -21,10 +21,13 @@ self.addEventListener("install", e => {
                 "./images/android-launchericon-96-96.png",
                 "./images/android-launchericon-72-72.png",
                 "./images/android-launchericon-48-48.png",
+                "./images/searchicon.png",
                 "./src/index.js",
                 "./spa/js/index.js",
                 "./spa/js/views/dashboard.js",                
                 "./spa/js/views/AbstractView.js",
+                "./spa/js/views/search.js",
+                
                 // cache upholstery
                 "./spa/js/views/upholstery.js",
                 "./spa/js/views/upholstery-adhesives.js",
