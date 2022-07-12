@@ -160,6 +160,7 @@ p {
     position: relative;
     color: gray;
     margin-top: 20%;
+    margin-bottom: 120px;
 }
 
 .storeLink-menu:hover .storeLink {
@@ -209,5 +210,5 @@ p {
 
 .blog {
     margin-top: 20px;
-    margin-bottom: 25px;
+    
 }
