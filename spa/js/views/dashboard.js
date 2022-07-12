@@ -27,14 +27,14 @@ export default class extends AbstractView {
         <div class="storeLink-menu">
         <span><h3>Links &#9776</h3><span>
             <div class="storeLink">
-                <p><a href="https://interlinksupply.com/aboutus" target="_blank">About Us</a></p>
+                <span><a href="https://interlinksupply.com/aboutus" target="_blank">About Us</a></span>
             </div>            
             <div class="storeLink">
-                <p><a href="https://interlinksupply.com/terms-conditions" target="_blank">Terms & Conditions</a></p>
+                <span><a href="https://interlinksupply.com/terms-conditions" target="_blank">Terms & Conditions</a></span>
             </div>
             <div class="storeLink">
-                <p><a href="https://interlinksupply.com/" target="_blank">interlinksupply.com</a></p>
-            </div>            
+                <span><a href="https://interlinksupply.com/" target="_blank">interlinksupply.com</a></span>
+            </div>         
         </div>
         `;
     }
