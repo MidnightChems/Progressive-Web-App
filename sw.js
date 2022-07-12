@@ -15,6 +15,7 @@ self.addEventListener("install", e => {
                 "./images/apple-touch-icon.png",
                 "./images/120.png",
                 "./images/180.png",
+                "./images/ILS2.jpg",
                 "./images/android-launchericon-512-512.png",
                 "./images/android-launchericon-192-192.png",
                 "./images/android-launchericon-144-144.png",
