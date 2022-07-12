@@ -32,7 +32,11 @@ export default class extends AbstractView {
             <li>Agitate to emulsify and suspend contamination.</li>
             <li>Rinse thoroughly.</li>
             <li>Mist with Spot Stop, and brush in with a carpet brush.</li>
-            </ol> 
+            </ol>
+            <div class="blog">             
+             <strong><u>Pro's Corner:</u></strong>
+             <p>View our Pro's Corner blog for more info on this stain!<br><a href="https://blog.aramsco.com/gum-and-adhesives-meet-21st-century-innovation" target="_blank">Gum and Adhesives Meet 21st Century Innovation</a></p>
+             </div>
             </div>
         `;
     }

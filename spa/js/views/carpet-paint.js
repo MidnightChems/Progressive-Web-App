@@ -35,7 +35,11 @@ export default class extends AbstractView {
             <li>Rinse thoroughly.</li>
             <li>Repeat if necessary.</li>
             <li>Mist with Spot Stop, and work in with carpet brush.</li>
-            </ol> 
+            </ol>
+            <div class="blog">             
+             <strong><u>Pro's Corner:</u></strong>
+             <p>View our Pro's Corner blog for more info on this stain!<br><a href="https://blog.aramsco.com/how-to-remove-paint-from-carpet" target="_blank">How To Remove Paint From Carpet</a></p>
+             </div> 
             </div>
         `;
     }

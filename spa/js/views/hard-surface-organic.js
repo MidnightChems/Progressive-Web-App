@@ -34,7 +34,11 @@ export default class extends AbstractView {
             <li>If stain persists, repeat steps 2 and 3.</li>
             <li>Depending upon the particular make-up of the stone, the surface may be etched. If so, it will be necessary to restore the original level of gloss. This will require one or more Spinergy Polishing Pads. See Spinergy Stone Maintenance & Cleaning Reference Guide for help in evaluating which grits to use and how to polish the floor.</li>
             <li>When stain has been removed, seal the stone with either Prestige Impregnating Sealers to aid in preventing future stains.</li>           
-            </ol> 
+            </ol>
+            <div class="blog">             
+            <strong><u>Pro's Corner:</u></strong>
+            <p>View our Pro's Corner blog for more info on this stain!<br><a href="https://blog.aramsco.com/stains-other-special-issues-with-stone-tile-grout" target="_blank">Stains & Other Special Issues With Stone, Tile, & Grout</a></p>
+            </div> 
             </div>
         `;
     }

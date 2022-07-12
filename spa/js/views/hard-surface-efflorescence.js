@@ -34,7 +34,11 @@ export default class extends AbstractView {
             <li>Quick dry with air movers when treating efflorescence.</li>
             <li>Use of acidic cleaning agents will etch the surface of most stone. It will be necessary to restore the original level of gloss using one or more Spinergy Polishing Pads. See Spinergy Stone Maintenance & Cleaning Reference Guide for help in evaluating which grits to use and how to polish floors or walls.</li>
             <li>Seal the floor with Prestige Solvent Based Impregnating Sealer.  Solvent Based Sealers will not reactivate the efflorescence.</li> 
-            </ol> 
+            </ol>
+            <div class="blog">             
+            <strong><u>Pro's Corner:</u></strong>
+            <p>View our Pro's Corner blog for more info on this stain!<br><a href="https://blog.aramsco.com/stains-other-special-issues-with-stone-tile-grout" target="_blank">Stains & Other Special Issues With Stone, Tile, & Grout</a></p>
+            </div> 
             </div>
         `;
     }

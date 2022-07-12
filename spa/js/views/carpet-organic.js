@@ -35,7 +35,11 @@ export default class extends AbstractView {
             <li>Leave as dry as possible, even blotting with a towel.</li>
             <li>Apply Stain Zone and allow to dry. Stain will gradually disappear.</li>  
             <li>Some stains contain synthetic dyes. If stain is not removed by Stain Zone, rinse thoroughly and vacuum to almost dry then apply Red Zone Ready following directions on the label.</li>             
-            </ol> 
+            </ol>
+            <div class="blog">             
+             <strong><u>Pro's Corner:</u></strong>
+             <p>View our Pro's Corner blog for more info on this stain!<br><a href="https://blog.aramsco.com/removing-organic-stains-from-carpet" target="_blank">How To Remove Organic Stains From Carpet</a></p>
+             </div> 
             </div>
         `;
     }

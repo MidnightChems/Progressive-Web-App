@@ -32,7 +32,11 @@ export default class extends AbstractView {
             <li>Rinse thoroughly.</li>
             <li>Mist with Spot Stop, and work in with a carpet brush.</li>
             <li>Some stains contain organic dyes.  If stain is not removed by Red Zone Ready, rinse thoroughly and vacuum to almost dry then apply Stain Zone following directions on the label.</li>
-            </ol> 
+            </ol>
+            <div class="blog">             
+            <strong><u>Pro's Corner:</u></strong>
+            <p>View our Pro's Corner blog for more info on this stain!<br><a href="https://blog.aramsco.com/removing-synthetic-stains-from-carpet" target="_blank">Removing Synthetic Stains From Carpet</a></p>
+            </div> 
             </div>
         `;
     }

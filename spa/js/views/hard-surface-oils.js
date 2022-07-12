@@ -32,7 +32,11 @@ export default class extends AbstractView {
             <li>If residual oil remains, apply enough Gum Break (Gel Break in states not regulated by low VOC laws) for the gel to cover the spot.  Allow 15 minutes for dwell time and rinse off the area.</li>
             <li>If oil spot remains, then apply industry distributed poultice.  Follow directions on the label.</li>
             <li>When oil spot has been removed, seal the stone with Prestige Impregnating Sealers to aid in preventing future spots.</li>           
-            </ol> 
+            </ol>
+            <div class="blog">             
+            <strong><u>Pro's Corner:</u></strong>
+            <p>View our Pro's Corner blog for more info on this stain!<br><a href="https://blog.aramsco.com/stains-other-special-issues-with-stone-tile-grout" target="_blank">Stains & Other Special Issues With Stone, Tile, & Grout</a></p>
+            </div> 
             </div>
         `;
     }

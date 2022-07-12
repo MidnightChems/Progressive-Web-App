@@ -35,7 +35,11 @@ export default class extends AbstractView {
             <li>To correct etching and restore the original gloss level you will need to use one or more Spinergy Polishing Pads. See Spinergy Stone Maintenance & Cleaning Reference Guide for help in evaluating which grits to use and how to polish floors or walls.</li>
             <li>Light etching can be masked (not removed) by applying a thin layer of an industry approved color enhancer.</li>
             <li>Seal the surface with Prestige Impregnating Sealers.</li> 
-            </ol> 
+            </ol>
+            <div class="blog">             
+            <strong><u>Pro's Corner:</u></strong>
+            <p>View our Pro's Corner blog for more info on this stain!<br><a href="https://blog.aramsco.com/stains-other-special-issues-with-stone-tile-grout" target="_blank">Stains & Other Special Issues With Stone, Tile, & Grout</a></p>
+            </div> 
             </div>
         `;
     }

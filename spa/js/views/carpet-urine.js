@@ -29,7 +29,11 @@ export default class extends AbstractView {
             <li>Apply Urine Stain Remover as final step.(if necessary)</li>
             <li>Allow to dry naturally and stain will disappear in 1 to 8 hours.</li>
             <p>Note: If urine has saturated into the backing and pad, apply a heavy dose of Urine Stain Remover followed by flushing using a Spot Claw or Flash Extractor. It is likely more thorough treatments may be necessary.<p>
-            </ol> 
+            </ol>
+            <div class="blog">             
+            <strong><u>Pro's Corner:</u></strong>
+            <p>View our Pro's Corner blog for more info on this stain!<br><a href="https://blog.aramsco.com/necessary-factors-for-effective-urine-removal" target="_blank">Necessary Factors For Effective Urine Removal</a></p>
+            </div> 
             </div>
         `;
     }
