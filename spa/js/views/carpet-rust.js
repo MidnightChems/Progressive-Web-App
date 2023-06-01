@@ -18,8 +18,8 @@ export default class extends AbstractView {
             <div class ="guide">
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-t-rust-rust-remover-1-gallon.html" target="_blank">Bridgepoint T-Rust™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Spot Stop™</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-t-rust-rust-remover-1-gallon.html" target="_blank">Bridgepoint Systems™ T-Rust</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Systems™ Spot Stop</a></li>
             </ul>
             <strong><u>Procedures:</u></strong>
             <ol class="procedures" type="1">
@@ -27,7 +27,11 @@ export default class extends AbstractView {
             <li>Agitate and allow a couple of minutes for stain to disappear.</li>
             <li>Rinse thoroughly.</li>       
             <li>Mist with Spot Stop, and work in with a carpet brush.</li>
-            </ol> 
+            </ol>
+            <div class="blog">             
+            <strong><u>Pro's Corner:</u></strong>
+            <p>View our Pro's Corner blog for more info on this stain!<br><a href="https://blog.aramsco.com/how-to-remove-rust-stains-from-carpet" target="_blank">How To Remove Rust Stains From Carpet</a></p>
+            </div>
             </div>
         `;
     }

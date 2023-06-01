@@ -14,7 +14,7 @@ export default class extends AbstractView {
         <div class="topNavHome"><img src="images/home.png" onclick="location.href='/';"></div> 
         </div>
         
-        <h3>Select a Surface</h3>  
+        <h3>Select a Stain</h3>  
         
         <div class="nav" data-link onclick="location.href='/carpet-adhesives'">
             <div class="cat">Adhesives</div>

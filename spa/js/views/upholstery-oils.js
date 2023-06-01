@@ -18,11 +18,11 @@ export default class extends AbstractView {
             <div class ="guide">
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-upholstery-cleaning-avenge-fabric-prespray-1-gallon.html" target="_blank">Bridgepoint Fabric Pre-spray™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-upholstery-cleaning-avenge-heavy-duty-fabric-prespray-1-gallon.html" target="_blank">Bridgepoint Heavy Duty Fabric Pre-spray™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-gum-break-adhesive-remover-1-quart.html" target="_blank">Bridgepoint Gum Break™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-gel-break-adhesive-remover-1-pint.html" target="_blank">Bridgepoint Gel Break™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Spot Stop™</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-upholstery-cleaning-avenge-fabric-prespray-1-gallon.html" target="_blank">Bridgepoint Systems™ Fabric Pre-spray</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-upholstery-cleaning-avenge-heavy-duty-fabric-prespray-1-gallon.html" target="_blank">Bridgepoint Systems™ Heavy Duty Fabric Pre-spray</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-gum-break-adhesive-remover-1-quart.html" target="_blank">Bridgepoint Systems™ Gum Break</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-gel-break-adhesive-remover-1-pint.html" target="_blank">Bridgepoint Systems™ Gel Break</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Systems™ Spot Stop</a></li>
             </ul>
             <strong><u>Procedures:</u></strong>
             <ol class="procedures" type="1">

@@ -19,13 +19,22 @@ export default class extends AbstractView {
         <div class="nav" data-link onclick="location.href='/hardsurface'">
             <div class="cat">Hard Surfaces</div>
         </div>
-        <br>
-        <br>
-        <div class="storeLink">
-            <p>Visit our online store: <a href="https://interlinksupply.com/" target="_blank">interlinksupply.com</a></p>
+
+        <div id="searchDash" data-link onclick="location.href='/search'">
+            <div class="cat"><img src ="./images/placeholder_search.png" width="335" height="44" alt="search page link"></div>
         </div>
-        <div class="storeLink">
-            <p><a href="https://www.aramsco.com/terms-conditions" target="_blank">Terms & Conditions</a></p>
+        
+        <div class="storeLink-menu">
+        <span><h3>Links &#9776</h3><span>
+            <div class="storeLink">
+                <span><a href="https://interlinksupply.com/aboutus" target="_blank">About Us</a></span>
+            </div>            
+            <div class="storeLink">
+                <span><a href="https://interlinksupply.com/terms-conditions" target="_blank">Terms & Conditions</a></span>
+            </div>
+            <div class="storeLink">
+                <span><a href="https://interlinksupply.com/" target="_blank">interlinksupply.com</a></span>
+            </div>         
         </div>
         `;
     }

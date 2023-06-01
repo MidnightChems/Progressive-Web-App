@@ -5,6 +5,7 @@ import dashboard from "/spa/js/views/dashboard.js";
 import upholstery from "/spa/js/views/upholstery.js";
 import carpet from "/spa/js/views/carpet.js";
 import hardSurface from "/spa/js/views/hard-surface.js";
+import search from "/spa/js/views/search.js";
 // importing upholstery pages
 import upholsteryAdhesives from "/spa/js/views/upholstery-adhesives.js";
 import upholsteryBleach from "/spa/js/views/upholstery-bleach.js";
@@ -16,8 +17,6 @@ import upholsteryOils from "/spa/js/views/upholstery-oils.js";
 import upholsteryOrganic from "/spa/js/views/upholstery-organic.js";
 import upholsteryPaint from "/spa/js/views/upholstery-paint.js";
 import upholsteryPh from "/spa/js/views/upholstery-ph.js";
-import upholsteryProtein from "/spa/js/views/upholstery-protein.js";
-import upholsteryRust from "/spa/js/views/upholstery-rust.js";
 import upholsterySynthetic from "/spa/js/views/upholstery-synthetic.js";
 import upholsterySoils from "/spa/js/views/upholstery-soils.js";
 import upholsteryUrine from "/spa/js/views/upholstery-urine.js";
@@ -67,6 +66,7 @@ const router = async () => {
         { path: "/upholstery", view: upholstery},
         { path: "/carpet", view: carpet},
         { path: "/hardsurface", view: hardSurface},
+        { path: "/search", view: search},
         // route upholstery pages                
         { path: "/upholstery-adhesives", view: upholsteryAdhesives},
         { path: "/upholstery-bleach", view: upholsteryBleach},
@@ -77,9 +77,7 @@ const router = async () => {
         { path: "/upholstery-oils", view: upholsteryOils},
         { path: "/upholstery-organic", view: upholsteryOrganic},
         { path: "/upholstery-paint", view: upholsteryPaint},
-        { path: "/upholstery-ph", view: upholsteryPh},
-        { path: "/upholstery-protein", view: upholsteryProtein},
-        { path: "/upholstery-rust", view: upholsteryRust},
+        { path: "/upholstery-ph", view: upholsteryPh},        
         { path: "/upholstery-synthetic", view: upholsterySynthetic},
         { path: "/upholstery-soils", view: upholsterySoils},
         { path: "/upholstery-urine", view: upholsteryUrine},
@@ -148,9 +146,8 @@ document.addEventListener("DOMContentLoaded", () => {
     document.body.addEventListener("click", e => {
         if (e.target.matches("[data-link]")) {
             e.preventDefault();
-            navigateTo(e.target.href);
-            //added below line to scroll window to top when loading new page
-            window.scrollTo(0, 0);
+            navigateTo(e.target.href);           
+            
         }
     });
     

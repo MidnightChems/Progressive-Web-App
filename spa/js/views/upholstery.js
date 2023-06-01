@@ -14,7 +14,7 @@ export default class extends AbstractView {
         <div class="topNavHome"><img src="images/home.png" onclick="location.href='/';"></div> 
         </div>
         
-        <h3>Select a Surface</h3>
+        <h3>Select a Stain</h3>
         <!-- <ul class="nav">
         <li><a href="/upholstery-adhesives" class="nav__link" data-link>Adhesives</a></li>
         <li><a href="/upholstery-bleach" class="nav__link" data-link>Bleach Neutralization</a></li>
@@ -25,10 +25,7 @@ export default class extends AbstractView {
         <li><a href="/upholstery-oils" class="nav__link" data-link>Oil Based</a></li>      
         <li><a href="/upholstery-organic" class="nav__link" data-link>Organic</a></li> 
         <li><a href="/upholstery-paint" class="nav__link" data-link>Paint</a></li>
-        <li><a href="/upholstery-ph" class="nav__link" data-link>pH Dependent Stains</a></li>
-        <li><a href="/upholstery-protein" class="nav__link" data-link>Protein Stains</a></li>
-        <li><a href="/upholstery-rust" class="nav__link" data-link>Rust</a></li>
-
+        <li><a href="/upholstery-ph" class="nav__link" data-link>pH Dependent Stains</a></li>     
         <li><a href="/upholstery-synthetic" class="nav__link" data-link>Synthetic</a></li>
         <li><a href="/upholstery-soils" class="nav__link" data-link>Unusual Soils</a></li>
         <li><a href="/upholstery-urine" class="nav__link" data-link>Urine</a></li>             
@@ -63,12 +60,6 @@ export default class extends AbstractView {
         </div>
         <div class="nav" data-link onclick="location.href='/upholstery-ph'">
             <div class="cat">pH Dependent Stains</div>
-        </div>
-        <div class="nav" data-link onclick="location.href='/upholstery-protein'">
-            <div class="cat">Protein Stains</div>
-        </div>
-        <div class="nav" data-link onclick="location.href='/upholstery-rust'">
-            <div class="cat">Rust</div>
         </div>
           <div class="nav" data-link onclick="location.href='/upholstery-synthetic'">
             <div class="cat">Synthetic</div>

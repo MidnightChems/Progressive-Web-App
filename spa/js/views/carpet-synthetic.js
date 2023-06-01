@@ -18,8 +18,8 @@ export default class extends AbstractView {
             <div class ="guide">
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-red-zone-ready-one-part-red-stain-remover-1-quart.html" target="_blank">Bridgepoint Red Zone Ready™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Spot Stop™</a></li>          
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-red-zone-ready-one-part-red-stain-remover-1-quart.html" target="_blank">Bridgepoint Systems™ Red Zone Ready</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Systems™ Spot Stop</a></li>          
             </ul>   
             <strong><u>Info:</u></strong>
             <p>If other spotter have been used then rinse thoroughly.  Rinse to remove staining material if carpet appears to be other than nylon or wool or if factory applied protector is still effective.</p>
@@ -32,7 +32,11 @@ export default class extends AbstractView {
             <li>Rinse thoroughly.</li>
             <li>Mist with Spot Stop, and work in with a carpet brush.</li>
             <li>Some stains contain organic dyes.  If stain is not removed by Red Zone Ready, rinse thoroughly and vacuum to almost dry then apply Stain Zone following directions on the label.</li>
-            </ol> 
+            </ol>
+            <div class="blog">             
+            <strong><u>Pro's Corner:</u></strong>
+            <p>View our Pro's Corner blog for more info on this stain!<br><a href="https://blog.aramsco.com/removing-synthetic-stains-from-carpet" target="_blank">Removing Synthetic Stains From Carpet</a></p>
+            </div> 
             </div>
         `;
     }

@@ -18,9 +18,9 @@ export default class extends AbstractView {
             <div class ="guide">
             <strong><u>Recommened Products:</u></strong>
             <ul class="chems">
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-gum-break-adhesive-remover-1-quart.html" target="_blank">Bridgepoint Gum Break &trade;</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-avenge-pro-1-gallon.html" target="_blank">Bridgepoint Avenge Pro™</a></li>
-            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Spot Stop™</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-gum-break-adhesive-remover-1-quart.html" target="_blank">Bridgepoint Systems™ Gum Break</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-avenge-pro-1-gallon.html" target="_blank">Bridgepoint Systems™ Avenge Pro</a></li>
+            <li><a href="https://interlinksupply.com/bridgepoint-systems-stain-remover-spot-stop-encapsulating-polymer-1-quart.html" target="_blank">Bridgepoint Systems™ Spot Stop</a></li>
             </ul>
             <strong><u>Procedures:</u></strong>
             <ol class="procedures" type="1">
@@ -32,7 +32,11 @@ export default class extends AbstractView {
             <li>Agitate to emulsify and suspend contamination.</li>
             <li>Rinse thoroughly.</li>
             <li>Mist with Spot Stop, and brush in with a carpet brush.</li>
-            </ol> 
+            </ol>
+            <div class="blog">             
+             <strong><u>Pro's Corner:</u></strong>
+             <p>View our Pro's Corner blog for more info on this stain!<br><a href="https://blog.aramsco.com/gum-and-adhesives-meet-21st-century-innovation" target="_blank">Gum and Adhesives Meet 21st Century Innovation</a></p>
+             </div>
             </div>
         `;
     }
